@@ -1,0 +1,15 @@
+{
+  "author": "",
+  "dependencies": {
+    "redux": "^5.0.1"
+  },
+  "description": "",
+  "license": "ISC",
+  "main": "Ar-redux.js",
+  "name": "1-only",
+  "scripts": {
+    "start": "node Ar-redux.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
